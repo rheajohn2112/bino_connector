@@ -84,13 +84,7 @@ pip install -r requirements.txt
 python bino_connector/app.py
 
 ## 🚀 Deployment
+This project is fully deployed and live on Render:
+👉 Live API URL: https://delivery-api-ce9q.onrender.com
 
-This project includes a Procfile, making it easy to deploy on:
-
-Render
-
-Railway
-
-Heroku
-
-Any Python hosting service
+The app uses a Procfile, making it easy to deploy to other platforms like Railway, Heroku, or any Python-compatible hosting service.
